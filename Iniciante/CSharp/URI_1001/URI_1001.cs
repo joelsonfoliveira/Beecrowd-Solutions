@@ -2,8 +2,6 @@
 {
     public static void Main(string[] args)
     {
-        Console.WriteLine("URI 1001");
-
         int A, B, X;
 
         A = int.Parse(Console.ReadLine());
