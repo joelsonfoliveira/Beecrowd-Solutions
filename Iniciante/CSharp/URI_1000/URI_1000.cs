@@ -2,7 +2,6 @@
 {
     public static void Main(string[] args)
     {
-        Console.WriteLine("URI 1000");
         Console.WriteLine("Hello World!");
     }
 }
