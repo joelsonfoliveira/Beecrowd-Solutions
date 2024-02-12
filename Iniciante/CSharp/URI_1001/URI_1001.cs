@@ -1,4 +1,5 @@
-﻿public class URI_1001
+﻿using System;
+public class URI_1001
 {
     public static void Main(string[] args)
     {
